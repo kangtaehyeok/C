@@ -6,3 +6,12 @@ clone
 git config --list
 fetch
 pull
+Go 환경 셋업
+	컴파일러 설치
+	VS code 설치
+	확장 플러그인 설치
+	go 도구 업데이트
+	go mod init ~~~~
+	cd ~~~
+	go run main.go
+	
