@@ -14,4 +14,6 @@ Go 환경 셋업
 	go mod init ~~~~
 	cd ~~~
 	go run main.go
+	comflict 트러블 슈팅
+	
 	
